@@ -1,0 +1,13 @@
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.exe
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.deps.json
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.runtimeconfig.json
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.runtimeconfig.dev.json
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.dll
+C:\Users\lnoi\source\repos\Desafio_Salario\bin\Debug\netcoreapp3.1\Desafio_Salario.pdb
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.csprojAssemblyReference.cache
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.csproj.CoreCompileInputs.cache
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.AssemblyInfoInputs.cache
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.AssemblyInfo.cs
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.dll
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.pdb
+C:\Users\lnoi\source\repos\Desafio_Salario\obj\Debug\netcoreapp3.1\Desafio_Salario.genruntimeconfig.cache
